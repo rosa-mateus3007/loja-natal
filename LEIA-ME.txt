@@ -7,8 +7,8 @@ INTEGRANTES:
 - Sarah Oliveira dos Santos - n° 2
 
 LINKS:
-Site (GitHub Pages): 
-Repositório (GitHub): 
+Site (GitHub Pages): https://rosa-mateus3007.github.io/loja-natal/
+Repositório (GitHub): https://github.com/rosa-mateus3007/loja-natal
 Vídeo (YouTube): 
 
 RECURSOS DE JAVASCRIPT IMPLEMENTADOS (mínimo de 8):
